@@ -1,0 +1,15 @@
+C:\Users\leo1t\Projetos\C#\CorridaC#\CorridaThreads\bin\Debug\net8.0\CorridaThreads.exe
+C:\Users\leo1t\Projetos\C#\CorridaC#\CorridaThreads\bin\Debug\net8.0\CorridaThreads.deps.json
+C:\Users\leo1t\Projetos\C#\CorridaC#\CorridaThreads\bin\Debug\net8.0\CorridaThreads.runtimeconfig.json
+C:\Users\leo1t\Projetos\C#\CorridaC#\CorridaThreads\bin\Debug\net8.0\CorridaThreads.dll
+C:\Users\leo1t\Projetos\C#\CorridaC#\CorridaThreads\bin\Debug\net8.0\CorridaThreads.pdb
+C:\Users\leo1t\Projetos\C#\CorridaC#\CorridaThreads\obj\Debug\net8.0\CorridaThreads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo1t\Projetos\C#\CorridaC#\CorridaThreads\obj\Debug\net8.0\CorridaThreads.AssemblyInfoInputs.cache
+C:\Users\leo1t\Projetos\C#\CorridaC#\CorridaThreads\obj\Debug\net8.0\CorridaThreads.AssemblyInfo.cs
+C:\Users\leo1t\Projetos\C#\CorridaC#\CorridaThreads\obj\Debug\net8.0\CorridaThreads.csproj.CoreCompileInputs.cache
+C:\Users\leo1t\Projetos\C#\CorridaC#\CorridaThreads\obj\Debug\net8.0\CorridaThreads.sourcelink.json
+C:\Users\leo1t\Projetos\C#\CorridaC#\CorridaThreads\obj\Debug\net8.0\CorridaThreads.dll
+C:\Users\leo1t\Projetos\C#\CorridaC#\CorridaThreads\obj\Debug\net8.0\refint\CorridaThreads.dll
+C:\Users\leo1t\Projetos\C#\CorridaC#\CorridaThreads\obj\Debug\net8.0\CorridaThreads.pdb
+C:\Users\leo1t\Projetos\C#\CorridaC#\CorridaThreads\obj\Debug\net8.0\CorridaThreads.genruntimeconfig.cache
+C:\Users\leo1t\Projetos\C#\CorridaC#\CorridaThreads\obj\Debug\net8.0\ref\CorridaThreads.dll
